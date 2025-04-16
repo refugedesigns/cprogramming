@@ -1,0 +1,9 @@
+{
+  "editor.dropIntoEditor.preferences": [],
+  "files.associations": {
+    "*.ndjson": "jsonl",
+    "*.dbclient-js": "javascript",
+    "stdio.h": "c"
+  },
+  "github.copilot.editor.enableAutoCompletions": false
+}
